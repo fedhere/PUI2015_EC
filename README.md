@@ -25,4 +25,6 @@ This way I can include the changes to the original repo (you are working on your
 
 ##IMPORTANT
 
-doing 
+If you only made changes to the subdirectory <NYUid>_EC this should not be a problem, but if you made any other changes you need to git pull before you git push.
+
+once again **DO NOT COMMIT LARGE DATA FILES!** 
