@@ -1,7 +1,7 @@
 # PUI2015_EC
 Please upload your Extra Credit project as a directory in this repository. In order to do this: 
 
-1) clone this repository on your machine
+1) make a fork of this repository (the fork button is on the top right of your github screen) and make a clone of the fork on your machine
 
 e.g. git clone https://github.com/fedhere/PUI2015_EC.git
 
