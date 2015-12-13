@@ -16,7 +16,7 @@ the full URL will appear in the HTTPS box in your fork ![alt text](https://githu
 
 e.g. git add fb55_EC
 
-5) commit your changes and push them (notice that when you fork and clone the repository you will get all the projects in it. this is fine, becuase we like transparency and we do not mind our work being publicly accessible, it would be if they were in your own repo as well. But also it means if anyone copies really large files then we all get them on our machines: **DO NOT COMMIT LARGE DATA FILES!** when in doube ask me. if a large data file is needed for reproducibility we can find another way for me to get them from you.
+5) commit your changes and push them (notice that when you fork and clone the repository you will get all the projects in it. this is fine, becuase we like transparency and we do not mind our work being publicly accessible, it would be if they were in your own repo as well. But also it means if anyone copies really large files then we all get them on our machines: **DO NOT COMMIT LARGE DATA FILES!** when in doubt ask me. if a large data file is needed for reproducibility we can find another way for me to get them from you.
 
 6) issue a pull request. the New Pull Request button is on the left of your screen. ![alt text](https://github.com/fedhere/PUI2015_EC/blob/master/fb55_EC/Screen%20Shot%202015-12-13%20at%203.35.02%20PM.png) 
 This way I can include the changes to the original repo (you are working on your own fork so unless you do this I will not see your work).
