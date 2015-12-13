@@ -6,7 +6,7 @@ Please upload your Extra Credit project as a directory in this repository. In or
 e.g. git clone https://github.com/fedhere/PUI2015_EC.git
 
 
-2) on your local copy (inside the PUI2015_EC directory create a folder with your NYUid <NYUid>_EC
+2) on your local copy (inside the PUI2015_EC directory create a folder with your NYUid <NYUid>_EC)
 
 3) move the code and documents you want to submit for your EC project to the directory you just created
 
