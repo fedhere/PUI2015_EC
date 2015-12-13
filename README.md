@@ -6,6 +6,7 @@ Please upload your Extra Credit project as a directory in this repository. In or
 e.g. git clone https://github.com/... 
 
 the full URL will appear in the HTTPS box in your fork
+![alt text]https://github.com/fedhere/PUI2015_EC/blob/master/fb55_EC/Screen%20Shot%202015-12-13%20at%203.34.52%20PM.png
 
 2) on your local copy (inside the PUI2015_EC directory create a folder with your NYUid <NYUid>_EC)
 
