@@ -1,0 +1,33 @@
+FID,OBJECTID,BoroCode,BoroName,CountyFIPS,PjAreaCode,PjAreaName,SHAPE_Leng,Shape_Le_1,Shape_Area,Name,EditName
+0,3,1,Manhattan,61,MN12,Upper West Side,23815.8366,23815.8366,27870795.26,Upper West Side,Upper West Side
+1,4,1,Manhattan,61,MN50,StuyvesantTown-CooperVillage,10258.51783,10258.51783,5104527.219,StuyvesantTown-CooperVillage,Stuyvesant Town
+2,6,1,Manhattan,61,MN24,SoHo-Tribeca-CivcCentr-LittleItaly,20671.51896,20671.51896,23989359.05,SoHo-Tribeca-CivcCentr-LittleItaly,"SoHo, TriBeCa and Little Italy"
+3,8,1,Manhattan,61,MN15,Clinton,17878.88252,17878.88252,16433186.11,Clinton,Clinton
+4,9,1,Manhattan,61,MN17,Midtown - Midtown South,27020.31023,27020.31023,30185073.47,Midtown - Midtown South,Theater District and Garment District
+5,10,1,Manhattan,61,MN34,East Harlem North,29217.73973,29217.73973,24487992.32,East Harlem North,East Harlem
+6,12,1,Manhattan,61,MN35,Washington Heights North,20602.33917,20602.33917,19206459.92,Washington Heights North,Washington Heights
+7,14,1,Manhattan,61,MN19,Turtle Bay - East Midtown,20269.29936,20269.29936,17113947.3,Turtle Bay - East Midtown,Turtle Bay
+8,15,1,Manhattan,61,MN21,Gramercy,12096.53946,12096.53946,7533546.097,Gramercy,Gramercy
+9,16,1,Manhattan,61,MN40,UpperEastSide - CarnegieHill,23778.30195,23778.30195,20065941.29,UpperEastSide - CarnegieHill,Upper East Side
+10,17,1,Manhattan,61,MN23,West Village,20152.52726,20152.52726,23055971.09,West Village,Greenwich Village
+11,18,1,Manhattan,61,MN28,Lower East Side,22895.9718,22895.9718,23212578.01,Lower East Side,Lower East Side
+12,19,1,Manhattan,61,MN27,Chinatown,20793.80209,20793.80209,14454604,Chinatown,Chinatown
+13,20,1,Manhattan,61,MN11,Central Harlem South,16604.29713,16604.29713,14434795.39,Central Harlem South,Harlem
+14,21,1,Manhattan,61,MN22,East Village,13541.82393,13541.82393,10895375.07,East Village,East Village
+15,22,1,Manhattan,61,MN13,HudsnYds-Chelsea-Flatirn-UnionSq,29469.71577,29469.71577,34381873.95,HudsnYds-Chelsea-Flatirn-UnionSq,"Chelsea, Flatiron District and Union Square"
+16,25,1,Manhattan,61,MN20,Murray Hill - Kips Bay,32603.71758,32603.71758,15138338.73,Murray Hill - Kips Bay,Murray Hill and Kips Bay
+17,26,1,Manhattan,61,MN25,BatteryParkCity-LowerManhattan,23847.87864,23847.87864,16282409.59,BatteryParkCity-LowerManhattan,Financial District and Battery Park City
+18,28,1,Manhattan,61,MN09,Morningside Heights,19810.73055,19810.73055,15352698.2,Morningside Heights,Morningside Heights
+19,74,3,Brooklyn,47,BK69,Clinton Hill,23970.53036,23970.53036,20530179.51,Clinton Hill,Clinton Hill
+20,78,3,Brooklyn,47,BK61,Crown Heights North,35655.61847,35655.61847,51625136.92,Crown Heights North,Crown Heights
+21,79,3,Brooklyn,47,BK09,Brooklyn Heights - Cobble,20513.72028,20513.72028,13438112.47,Brooklyn Heights - Cobble,Brooklyn Heights and Cobble Hill
+22,81,3,Brooklyn,47,BK37,Park Slope - Gowanus,31450.93975,31450.93975,42480415.16,Park Slope - Gowanus,Park Slope and Gowanus
+23,87,3,Brooklyn,47,BK77,Bushwick North,26394.69401,26394.69401,24946901.57,Bushwick North,Bushwick
+24,89,3,Brooklyn,47,BK72,Williamsburg,16915.1779,16915.1779,11585352.88,Williamsburg,Williamsburg
+25,90,3,Brooklyn,47,BK68,Fort Greene,19933.92733,19933.92733,16492408.62,Fort Greene,Fort Greene
+26,93,3,Brooklyn,47,BK38,DUMBO-VingrHl-DwntnBrkl-BoermHl,32294.80024,32294.80024,28641899.84,DUMBO-VingrHl-DwntnBrkl-BoermHl,"Downtown Brooklyn, DUMBO, Vinegar Hill and Boerum Hill"
+27,96,3,Brooklyn,47,BK75,Bedford,29992.92059,29992.92059,32629835.54,Bedford,Bedford-Stuyvesant
+28,102,3,Brooklyn,47,BK76,Greenpoint,27590.95018,27590.95018,31856188.47,Greenpoint,Greenpoint
+29,106,3,Brooklyn,47,BK90,East Williamsburg,49243.13136,49243.13136,39170567.18,East Williamsburg,East Williamsburg
+30,112,3,Brooklyn,47,BK33,CarrollGrdns-Columbia-RedHook,45671.78111,45671.78111,43089677.5,CarrollGrdns-Columbia-RedHook,Carroll Gardens and Red Hook
+31,115,3,Brooklyn,47,BK64,Prospect Heights,15027.50503,15027.50503,10259233.23,Prospect Heights,Prospect Heights
